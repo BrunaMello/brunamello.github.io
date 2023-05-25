@@ -310,6 +310,11 @@ textarea {
     width: 100%
 }
 
+.contact__icon {
+    padding: 10px;
+    width: 100px;
+}
+
 .home-hero__content {
     position: absolute;
     top: 50%;
